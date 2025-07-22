@@ -9,11 +9,7 @@ This project gives in-depth analysis of e-commerce sales data using Microsoft Po
 
 -  Long-term customer value
 
-By transforming raw e-commerce data into an interactive, dynamic dashboard, this project empowers business stakeholders and decision-makers to Monitor and evaluate key performance indicators (KPIs) such as revenue growth, average order value, and customer lifetime value (CLV).
-
-Identify purchasing trends across customer segments, time periods, and product categories.
-
-Track customer retention and engagement metrics to optimize marketing strategies and sales funnels.
+By transforming raw e-commerce data into an interactive, dynamic dashboard, this project empowers business stakeholders and decision-makers to Monitor and evaluate key performance indicators (KPIs) such as revenue growth, average order value, and customer lifetime value (CLV).Identifying  purchasing trends across customer segments, time periods, and product categories and to track customer retention and engagement metrics to optimize marketing strategies and sales funnels.
 
 Uncover high-performing products and regions contributing significantly to business success.
 
